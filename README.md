@@ -3,7 +3,7 @@
 CS 320
 
 Fall 2026
-
+Manasi Kale
 Team 6
 
 This is our team repository.
