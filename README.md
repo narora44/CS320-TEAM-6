@@ -10,7 +10,7 @@ This is our team repository.
 
 We are using it for the Git activities.
 
-We will be working on different branches.
+We will be working on different branches. Daniela Ramos
 
 We will make changes and open pull requests.
 
