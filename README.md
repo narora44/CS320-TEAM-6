@@ -3,8 +3,13 @@
 CS 320
 
 Fall 2026
+<<<<<<< HEAD
 Manasi Kale
 Team 6
+=======
+
+Team 6 Sahasra Thirakala
+>>>>>>> origin/21-thirakala-line7
 
 This is our team repository.
 
