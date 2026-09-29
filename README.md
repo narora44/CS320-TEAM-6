@@ -5,6 +5,8 @@ CS 320
 Fall 2026
 
 Team 6 Sahasra Thirakala
+Manasi Kale
+Team 6
 
 This is our team repository.
 
